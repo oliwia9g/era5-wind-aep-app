@@ -1,0 +1,13 @@
+# dane logowania
+.Renviron
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# dane: za duże na GitHub, odtwarzane skryptami
+dane/
+*.nc
+*.zip
+temp_folder_*/
